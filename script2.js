@@ -1,4 +1,5 @@
-let dlina,width;
+let dlina;
+let width;
 console.log("ЗАДАЧА 2") 
 dlina=prompt("Введите длину прямоугольника (задача 2)", "")
 console.log(`Длина прямоугольника = ${dlina}`)
