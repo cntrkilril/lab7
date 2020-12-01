@@ -1,3 +1,4 @@
+console.log("ЗАДАЧА 1")
 let chislo;
 let stroka;
 let logika;
